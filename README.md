@@ -9,6 +9,7 @@
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=chapsas.com&url=https%3A%2F%2Fahmednour.hasnode.dev)](http://ahmednour.hashnode.dev/)
 
 !---------!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednreldin)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmednreldin&theme=dark&background=000000)](https://git.io/streak-stats)
 
