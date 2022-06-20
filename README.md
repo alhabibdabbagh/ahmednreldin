@@ -1,4 +1,4 @@
- ### Hey 👋, I'm Ahmed Nour
+ ### Hey There 👋,
 
 !---------!
 
@@ -9,16 +9,17 @@
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=chapsas.com&url=https%3A%2F%2Fahmednour.hasnode.dev)](http://ahmednour.hashnode.dev/)
 
 !---------!
+
 Languages and Tools :
 
 <div>
  
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
  
  &nbsp;
  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+ 
 </div>
 
 !---------!
